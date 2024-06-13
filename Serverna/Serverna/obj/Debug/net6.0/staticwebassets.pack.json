@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nikita\\Desktop\\Cursova\\Serverna\\Serverna\\wwwroot\\Image\\Products\\prod1.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\prod1.png"
+    },
+    {
+      "Id": "C:\\Users\\Nikita\\Desktop\\Cursova\\Serverna\\Serverna\\wwwroot\\Image\\Products\\prod1008.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\prod1008.png"
+    },
+    {
+      "Id": "C:\\Users\\Nikita\\Desktop\\Cursova\\Serverna\\Serverna\\wwwroot\\Image\\Products\\prod1009.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\prod1009.png"
+    },
+    {
+      "Id": "C:\\Users\\Nikita\\Desktop\\Cursova\\Serverna\\Serverna\\wwwroot\\Image\\Products\\prod1017.png",
+      "PackagePath": "staticwebassets\\Image\\Products\\prod1017.png"
+    },
+    {
+      "Id": "C:\\Users\\Nikita\\Desktop\\Cursova\\Serverna\\Serverna\\wwwroot\\Image\\RegularImages\\NoPhoto.png",
+      "PackagePath": "staticwebassets\\Image\\RegularImages\\NoPhoto.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Serverna.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Serverna.props",
+      "PackagePath": "build\\Serverna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Serverna.props",
+      "PackagePath": "buildMultiTargeting\\Serverna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Serverna.props",
+      "PackagePath": "buildTransitive\\Serverna.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

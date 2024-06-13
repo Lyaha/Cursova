@@ -1,0 +1,1011 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\userapplication\\formelementclasses\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\sidemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\sidemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\rolegridform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\rolegridform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\rolegridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\rolegridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\usersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\usersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\rolegridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\rolegridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\accessrightsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\accessrightsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\accessrightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\accessrightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\accessrightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\accessrightsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\toggleswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\toggleswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\edituserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\edituserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\edituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\ordergrid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\ordergrid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\ordergrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\ordergrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\usersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\productdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\productdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\productitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\productitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\productitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\productitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\roundedtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\roundedtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stockmovementdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stockmovementdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stockmovementdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stockmovementdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stockmovementdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stockmovementdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\userprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\userprofileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stocksorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stocksorders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stocksorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stocksorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\sidemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\sidemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UserApplication||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stockgridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stockgridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stockgridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stockgridform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\stockgridform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\stockgridform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\roundedbutton.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\roundedbutton.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\productdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\productdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editstockmovementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editstockmovementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\editstockmovementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\editstockmovementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\orderdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\orderdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\supplierform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\supplierform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\formelementclasses\\customcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\formelementclasses\\customcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\ordergrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\ordergrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|c:\\users\\nikita\\desktop\\cursova\\userapplication\\userapplication\\userapplication\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{A1215A45-7CBF-4CB2-8084-1B40E9B500AF}|UserApplication\\UserApplication.csproj|solutionrelative:userapplication\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleGridForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\RoleGridForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\RoleGridForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\RoleGridForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\RoleGridForm.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:07:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleGridForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\RoleGridForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\RoleGridForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\RoleGridForm.cs",
+              "RelativeToolTip": "UserApplication\\RoleGridForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:01:46.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\RoleGridForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\RoleGridForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\RoleGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\RoleGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:01:42.929Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessRightsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AccessRightsForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\AccessRightsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AccessRightsForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\AccessRightsForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:37:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UsersForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\UsersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UsersForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\UsersForm.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:26:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UsersForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UsersForm.cs",
+              "RelativeToolTip": "UserApplication\\UsersForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:25:49.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomDataGridView.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\CustomDataGridView.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\CustomDataGridView.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\CustomDataGridView.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\CustomDataGridView.cs",
+              "ViewState": "AQIAAAsFAAAAAAAAAADgvycFAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:57:11.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SideMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\SideMenu.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\SideMenu.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\SideMenu.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\SideMenu.cs",
+              "ViewState": "AQIAAKkBAAAAAAAAAAAEwMwBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:32:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToggleSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\ToggleSwitch.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\ToggleSwitch.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\ToggleSwitch.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\ToggleSwitch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:33:54.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessRightsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AccessRightsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\AccessRightsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AccessRightsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\AccessRightsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:35:13.91Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessRightsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AccessRightsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\AccessRightsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AccessRightsForm.cs",
+              "RelativeToolTip": "UserApplication\\AccessRightsForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAtwJYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:35:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderGrid.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderGrid.cs",
+              "RelativeDocumentMoniker": "UserApplication\\OrderGrid.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderGrid.cs",
+              "RelativeToolTip": "UserApplication\\OrderGrid.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:27:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Login.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Login.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Login.cs",
+              "RelativeToolTip": "UserApplication\\Login.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:41:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderGrid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderGrid.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\OrderGrid.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderGrid.Designer.cs",
+              "RelativeToolTip": "UserApplication\\OrderGrid.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwCMAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:49:23.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditUserForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditUserForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\EditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:20:42.007Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditUserForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditUserForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditUserForm.cs",
+              "RelativeToolTip": "UserApplication\\EditUserForm.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAwIYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:20:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditUserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditUserForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditUserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditUserForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\EditUserForm.Designer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:18:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Form1.Designer.cs",
+              "RelativeToolTip": "UserApplication\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:23:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditProduct.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditProduct.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditProduct.cs",
+              "RelativeToolTip": "UserApplication\\EditProduct.cs",
+              "ViewState": "AQIAADQBAAAAAAAAAAAAwEUBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:40:25.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UsersForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\UsersForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\UsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:25:44.52Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditProduct.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditProduct.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditProduct.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditProduct.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\EditProduct.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:52:39.079Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditProduct.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditProduct.Designer.cs",
+              "RelativeToolTip": "UserApplication\\EditProduct.Designer.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAANAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:41:34.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditOrderForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditOrderForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditOrderForm.cs",
+              "RelativeToolTip": "UserApplication\\EditOrderForm.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAiwIcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:06:55.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductItemControl.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\ProductItemControl.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\ProductItemControl.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\ProductItemControl.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\ProductItemControl.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowGwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:29:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoundedTextBox.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\RoundedTextBox.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\RoundedTextBox.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\RoundedTextBox.Designer.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\RoundedTextBox.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:43:04.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\AddProductForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AddProductForm.cs",
+              "RelativeToolTip": "UserApplication\\AddProductForm.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAApwMMAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:18:03.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\ProductDetailsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\ProductDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\ProductDetailsForm.cs",
+              "RelativeToolTip": "UserApplication\\ProductDetailsForm.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:33:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditOrderForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditOrderForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\EditOrderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:06:53.113Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductItemControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\ProductItemControl.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\ProductItemControl.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\ProductItemControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\ProductItemControl.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:41:39.697Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Program.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Program.cs",
+              "RelativeToolTip": "UserApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:21:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StockMovementDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockMovementDetailsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StockMovementDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockMovementDetailsForm.cs",
+              "RelativeToolTip": "UserApplication\\StockMovementDetailsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:43:07.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StockMovementDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockMovementDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StockMovementDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockMovementDetailsForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\StockMovementDetailsForm.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwEsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:43:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StocksOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StocksOrders.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StocksOrders.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StocksOrders.cs",
+              "RelativeToolTip": "UserApplication\\StocksOrders.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:58:04.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderDetailsForm.cs",
+              "RelativeToolTip": "UserApplication\\OrderDetailsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:17:12.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserProfileForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\UserProfileForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\UserProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:54:38.701Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserProfileForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\UserProfileForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserProfileForm.cs",
+              "RelativeToolTip": "UserApplication\\UserProfileForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:54:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StockMovementDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockMovementDetailsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StockMovementDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockMovementDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\StockMovementDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:18:43.373Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SideMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\SideMenu.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\SideMenu.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\SideMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\SideMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:30:19.242Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserProfileForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserProfileForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\UserProfileForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserProfileForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\UserProfileForm.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA5wD8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:55:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StocksOrders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StocksOrders.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StocksOrders.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StocksOrders.Designer.cs",
+              "RelativeToolTip": "UserApplication\\StocksOrders.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:43:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserApplication",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserApplication.csproj",
+              "RelativeDocumentMoniker": "UserApplication\\UserApplication.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\UserApplication.csproj",
+              "RelativeToolTip": "UserApplication\\UserApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T08:37:03.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StockGridForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockGridForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StockGridForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockGridForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\StockGridForm.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAWwCsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:24:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StockGridForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockGridForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StockGridForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockGridForm.cs",
+              "RelativeToolTip": "UserApplication\\StockGridForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:36:31.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StockGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockGridForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\StockGridForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\StockGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\StockGridForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:23:48.013Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoundedButton.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\RoundedButton.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\RoundedButton.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\RoundedButton.Designer.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\RoundedButton.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:42:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\ProductDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\ProductDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\ProductDetailsForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\ProductDetailsForm.Designer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:41:37.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AddProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\AddProductForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\AddProductForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\AddProductForm.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:41:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\CategoryForm.cs",
+              "RelativeToolTip": "UserApplication\\CategoryForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:32:36.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EditStockMovementForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditStockMovementForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditStockMovementForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditStockMovementForm.cs",
+              "RelativeToolTip": "UserApplication\\EditStockMovementForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:40:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Login.Designer.cs",
+              "RelativeToolTip": "UserApplication\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:06:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EditStockMovementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditStockMovementForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\EditStockMovementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\EditStockMovementForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\EditStockMovementForm.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:41:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SupplierForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\SupplierForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\SupplierForm.cs",
+              "RelativeToolTip": "UserApplication\\SupplierForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:33:57.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\CategoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\CategoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\CategoryForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\CategoryForm.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:32:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\OrderDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderDetailsForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\OrderDetailsForm.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:23:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SupplierForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\SupplierForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserApplication\\SupplierForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\SupplierForm.Designer.cs",
+              "RelativeToolTip": "UserApplication\\SupplierForm.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:33:38.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Login.cs",
+              "RelativeDocumentMoniker": "UserApplication\\Login.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:40:50.62Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomCheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\CustomCheckBox.cs",
+              "RelativeDocumentMoniker": "UserApplication\\FormElementClasses\\CustomCheckBox.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\FormElementClasses\\CustomCheckBox.cs",
+              "RelativeToolTip": "UserApplication\\FormElementClasses\\CustomCheckBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:11:52.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderGrid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderGrid.cs",
+              "RelativeDocumentMoniker": "UserApplication\\OrderGrid.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderGrid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\OrderGrid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:48:32.207Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "UserApplication\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Desktop\\Cursova\\UserApplication\\UserApplication\\UserApplication\\OrderDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UserApplication\\OrderDetailsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:18:14.652Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

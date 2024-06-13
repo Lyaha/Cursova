@@ -1,0 +1,43 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Serverna
+build_property.RootNamespace = Serverna
+build_property.ProjectDir = C:\Users\Nikita\Desktop\Cursova\Serverna\Serverna\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Nikita\Desktop\Cursova\Serverna\Serverna
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Nikita/Desktop/Cursova/Serverna/Serverna/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nikita/Desktop/Cursova/Serverna/Serverna/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nikita/Desktop/Cursova/Serverna/Serverna/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nikita/Desktop/Cursova/Serverna/Serverna/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nikita/Desktop/Cursova/Serverna/Serverna/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nikita/Desktop/Cursova/Serverna/Serverna/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
